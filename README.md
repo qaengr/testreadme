@@ -23,15 +23,9 @@ manual-testing-artifacts/
 
 ## 📋 Artifacts Description
 
-Mind maps provide a visual representation of the Account Module, covering Registration, Login, and related functionalities. Test scenarios outline high level conditions, including edge cases and input validation to verify system behavior. Test cases contain detailed steps, test data, expected results, and actual outcomes, covering First Name, Last Name, Email, Password, and OTP validation through positive and negative testing.
+Mind maps provide a visual representation of the Account Module, covering Registration, Login, and related functionalities. Test scenarios outline high level conditions, such as edge cases and input validation, to verify system behavior. Test cases detail the steps, test data, expected results, and actual outcomes for First Name, Last Name, Email, Password, and OTP validation, using both positive and negative testing.
 
-The test summary report presents results for 67 test cases, including 58 passed and 9 failed, with no unexecuted or out of scope cases. The bug report documents defects, including their ID, severity, priority, status, and reproduction steps. Test metrics provide an overview of testing activities, including test coverage, pass/fail rates, and defect density.
-
-## 📋 Artifacts Description
-
-Mind maps visualize the Account Module, covering Registration, Login, and related features. Test scenarios outline high level conditions, such as edge cases and input validation, to verify system behavior. Test cases detail the steps, test data, expected results, and actual outcomes for First Name, Last Name, Email, Password, and OTP validation, using both positive and negative testing.
-
-The test summary report covers 67 test cases, including 58 passed and 9 failed, with no unexecuted or out of scope cases. Bug reports document each defect with its ID, severity, priority, status, and reproduction steps. Test metrics provide an overview of testing activities, including test coverage, pass/fail rates, and defect density.
+The test summary report covers 67 test cases, including 58 passed and 9 failed, with no unexecuted or out of scope cases. Bug reports document each defect with its ID, severity, priority, status, and reproduction steps. Test metrics provide an overview of testing activities, such as test coverage, pass/fail rates, and defect density.
 
 ---
 
