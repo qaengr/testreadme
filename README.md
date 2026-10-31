@@ -1,6 +1,6 @@
 # 🚀 Manual Testing Artifacts
 
-Manual Testing Artifacts for the Account Module of the Startech.bd website, covering Registration and Login functionality. It includes mind maps, test scenarios, test case, bug report, test summary report, and test metrics, organized in Excel. The goal is a reusable, well organized set of artifacts that helps QA teams plan, execute, and analyze testing.
+Manual Testing Artifacts for the Account Module of Startech.bd website, covering Registration and Login functionality. It includes mind maps, test scenarios, test case, bug report, test summary report, and test metrics, all organized in Excel. The goal is a reusable, well organized toolkit to help QA teams plan, execute, and analyze testing.
 
 ---
 
