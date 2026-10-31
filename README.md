@@ -27,6 +27,12 @@ The mind maps provide a visual representation of the Account Module, covering Re
 
 The test summary report presents results for 67 test cases, including 58 passed and 9 failed, with no unexecuted or out of scope cases. The bug report documents defects, including their ID, severity, priority, status, and reproduction steps. Test metrics provide an overview of testing activities, including test coverage, pass/fail rates, and defect density.
 
+## 📋 Artifacts Description
+
+Mind maps visualize the Account Module, covering Registration, Login, and related features. Test scenarios outline high-level conditions, such as edge cases and input validation, to verify system behavior. Test cases detail the steps, test data, expected results, and actual outcomes for First Name, Last Name, Email, Password, and OTP validation, using both positive and negative testing.
+
+The test summary report covers 67 test cases: 58 passed and 9 failed, with none unexecuted or out of scope. Bug reports document each defect with its ID, severity, priority, status, and reproduction steps. Test metrics summarize testing activity through test coverage, pass/fail rates, and defect density.
+
 ---
 
 ## 📊 Summary
